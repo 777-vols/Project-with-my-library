@@ -753,10 +753,10 @@
     "@types/babel__core" "^7.20.2"
     react-refresh "^0.14.0"
 
-"@vladislav_sss/modsen_date_picker@^1.0.17":
-  version "1.0.17"
-  resolved "https://registry.yarnpkg.com/@vladislav_sss/modsen_date_picker/-/modsen_date_picker-1.0.17.tgz#677208d1d8d1c95de95c0a88bbdc4fcf7d724043"
-  integrity sha512-VHOzwJ6Sutwe5eZYJAGp/UajuDNAARZ+Dq019l/y2TVPfAyGl2NEJtop4vDA/0cmQERTmQ3rW7Ae5Gm6dzSsEQ==
+"@vladislav_sss/modsen_date_picker@^1.0.20":
+  version "1.0.20"
+  resolved "https://registry.yarnpkg.com/@vladislav_sss/modsen_date_picker/-/modsen_date_picker-1.0.20.tgz#f18cba7162b29244cb52c46ef61c9b43b9351023"
+  integrity sha512-iShpkWpJQ+YztbGDxV9giY9iJtopJoQBKUGExbDb4bb3xTY4Q5rsbJc6uud9qraAb/xvyXrPeI+/vbk3ZP61xg==
   dependencies:
     "@babel/runtime" "^7.23.1"
     "@types/styled-components" "^5.1.28"
