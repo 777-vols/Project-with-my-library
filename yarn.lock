@@ -753,15 +753,16 @@
     "@types/babel__core" "^7.20.2"
     react-refresh "^0.14.0"
 
-"@vladislav_sss/modsen_date_picker@^1.0.6":
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/@vladislav_sss/modsen_date_picker/-/modsen_date_picker-1.0.6.tgz#3aa0f73d71f0ee8e8759e7c4788e20972795729c"
-  integrity sha512-JKzDEVJExQvBBoJ9iwu0Z6vJ9SZy8OFN4r8HBteNAzv+apeVnhhiUHcjOCWpHU8aoFflY5KoAd16ZKf48jEjig==
+"@vladislav_sss/modsen_date_picker@^1.0.8":
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/@vladislav_sss/modsen_date_picker/-/modsen_date_picker-1.0.8.tgz#a81d1c76c4e00e934df748d9004484c3cc6f8db9"
+  integrity sha512-4HQ3oJBQsJzBVWyqqQvTFe6fTj7cHbLzerIm4Xvh3Ou6Q0wDKsebXAKNb84cxIuRZW25BgDvpPI/ZLFxnv0hVg==
   dependencies:
     "@babel/runtime" "^7.23.1"
     "@types/styled-components" "^5.1.28"
     react-select "^5.7.7"
     styled-components "^6.0.8"
+    uuid "^9.0.1"
 
 acorn-jsx@^5.3.2:
   version "5.3.2"
@@ -1926,6 +1927,11 @@ use-isomorphic-layout-effect@^1.1.2:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/use-isomorphic-layout-effect/-/use-isomorphic-layout-effect-1.1.2.tgz#497cefb13d863d687b08477d9e5a164ad8c1a6fb"
   integrity sha512-49L8yCO3iGT/ZF9QttjwLF/ZD9Iwto5LnH5LmEdk/6cFmXddqi2ulF0edxTwjj+7mqvpVVGQWvbXZdn32wRSHA==
+
+uuid@^9.0.1:
+  version "9.0.1"
+  resolved "https://registry.yarnpkg.com/uuid/-/uuid-9.0.1.tgz#e188d4c8853cc722220392c424cd637f32293f30"
+  integrity sha512-b+1eJOlsR9K8HJpow9Ok3fiWOWSIcIzXodvv0rQjVoOVNpWMpxf1wZNpt4y9h10odCNrqnYp1OBzRktckBe3sA==
 
 vite@^4.4.5:
   version "4.5.0"
